@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+I have started the 100 Days of Code challenge to keep myself accountable while I commit to learning React and Node. These two JavaScript frameworks will be used during my  Digital Jobs Program paid work placement with Services Victoria as a Web Development intern. I am also working on launching a blog to chronicle my research into digital literacy and digital competence.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Reading the most recent article by Alex Kallaway [Take the #100DaysOfCode Challenge. It’s the fastest way to form a coding habit](https://www.freecodecamp.org/news/take-the-100daysofcode-challenge-make-coding-a-habit-4a655d8663fd/) and listening to him speak about #100DaysOfCode on the [Stack Overflow Podcast](https://stackoverflow.blog/2020/07/24/podcast-255-alex-kallaway-100-days-of-code/), the [CodeNewbie Podcast](https://www.codenewbie.org/podcast/100-days-of-code), and the [Learn to Code With Me podcast](https://learntocodewith.me/podcast/100-days-of-code-with-alexander-kallaway/) helped to build the courage to get started.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: 27th of July 2022
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Created a new Space on W3schools to share the Digital Competence resources that I have been collecting for a blog I have wanted to create since the beginning of this year. Starting with HTML and CSS for now, but plan to add some interactive features using vanilla JavaScript.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:** I am a bit nervous about publicly commiting to this challenge for 100 days, but it will help to hold back my natural inclination towards procrastination.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [Digital Competence Resources - W3schools Space](https://digital-competence.w3spaces.com/)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
