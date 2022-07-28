@@ -16,7 +16,7 @@ Reading the most recent article by Alex Kallaway [Take the #100DaysOfCode Challe
 
 **Today's Progress**: Created a div class for content from an Australian context with embedded videos. Also added APA 7th Style references.
 
-**Thoughts:** Not everything worked as well as I hoped, but I will try again tomorrow to add the styling through CSS that I intended for the sections
- Also hoping to use both Flexbox and CSS Gridore effectively to make a mobile first responsive design for this blog.
+**Thoughts:** Not everything worked as well as I hoped, but I will try again tomorrow to add the styling through CSS that I intended for the sections.
+ Also hoping to use both Flexbox and CSS Grid more effectively to make a mobile first responsive design for this blog.
 
 **Link to work:** [Digital Competence Resources - W3schools Space](https://digital-competence.w3spaces.com/)
