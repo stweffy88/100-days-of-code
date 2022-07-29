@@ -20,3 +20,9 @@ Reading the most recent article by Alex Kallaway [Take the #100DaysOfCode Challe
  Also hoping to use both Flexbox and CSS Grid more effectively to make a mobile first responsive design for this blog.
 
 **Link to work:** [Digital Competence Resources - W3schools Space](https://digital-competence.w3spaces.com/)
+
+### Day 3: 29th of July 2022
+
+**Today's Progress**: Added more text to the blog and links. Tweaked the CSS to get the embedded YouTube videos to have a better aspect ratio.
+
+**Link to work:** [Digital Competence Resources - W3schools Space](https://digital-competence.w3spaces.com/)
