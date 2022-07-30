@@ -23,6 +23,10 @@ Reading the most recent article by Alex Kallaway [Take the #100DaysOfCode Challe
 
 ### Day 3: 29th of July 2022
 
-**Today's Progress**: Added more text to the blog and links. Tweaked the CSS to get the embedded YouTube videos to have a better aspect ratio.
+**Today's Progress**: Added more text to the blog and links to external pages. Tweaked the CSS to get the embedded YouTube videos to have a better aspect ratio.
+
+**Thoughts:** It was a good feeling to see my edits to the code result in the change I wanted. 
+The in-built code editor in W3 Spaces has quite good functionality in both mobile and desktop format with a live preview of the website.
+https://www.w3schools.com/spaces/
 
 **Link to work:** [Digital Competence Resources - W3schools Space](https://digital-competence.w3spaces.com/)
