@@ -49,10 +49,7 @@ https://www.w3schools.com/spaces/
 
 <!-- 
 ### Day :  of  2022
-
 **Today's Progress:** 
-
 **Thoughts:**
-
 **Link to work:**
 -->
