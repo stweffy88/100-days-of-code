@@ -47,6 +47,19 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [React Tutorial fork - Tic Tac Toe](https://codepen.io/stweffy_88/pen/RwMxbRz)
 
+### Day 6: 1st of August 2022
+
+**Today's Progress:** I didn't get a chance to code today, but I did get back into listening to The CSS Podcast again, which has such a vibrant energy to it and has connected me with some really useful resources for exploring the cascade, specificity, Flexbox and Grid. This is one podcast that I intend to listen to in its entirety.
+
+**Thoughts:** I'm okay with taking it slow with this challenge as I will not always have an hour to spare for coding each day, but this is a good opportunity to build new habits.
+
+### Day 7: 2nd of August 2022
+**Today's Progress:** Took a couple of steps forward in the *Tutorial: Intro to React* on [reactjs.org](https://reactjs.org/tutorial/tutorial.html).
+
+**Thoughts:** I don't mind taking my time with this tutorial, and it actually recommends that you do so (instead of rushing through). I prefer taking time for concepts to absorb, as rote learning has never had a lasting effect on my memory or indeed how I undertake any new task.
+
+**Link to work:** [React Tutorial fork - Tic Tac Toe on CodePen](https://codepen.io/stweffy_88/pen/RwMxbRz)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
