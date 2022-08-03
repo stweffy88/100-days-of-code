@@ -60,6 +60,14 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [React Tutorial fork - Tic Tac Toe on CodePen](https://codepen.io/stweffy_88/pen/RwMxbRz)
 
+### Day 8: 3rd of August 2022
+
+**Today's Progress:** Completed two more steps of the *Tutorial: Intro to React* on [reactjs.org](https://reactjs.org/tutorial/tutorial.html).
+
+**Thoughts:** I need to debug as it is not working the same as the incremental examples on the tutorial. However, the concepts make sense so far.
+
+**Link to work:** [React Tutorial fork - Tic Tac Toe on CodePen](https://codepen.io/stweffy_88/pen/RwMxbRz)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
