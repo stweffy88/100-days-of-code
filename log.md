@@ -54,6 +54,7 @@ https://www.w3schools.com/spaces/
 **Thoughts:** I'm okay with taking it slow with this challenge as I will not always have an hour to spare for coding each day, but this is a good opportunity to build new habits.
 
 ### Day 7: 2nd of August 2022
+
 **Today's Progress:** Took a couple of steps forward in the *Tutorial: Intro to React* on [reactjs.org](https://reactjs.org/tutorial/tutorial.html).
 
 **Thoughts:** I don't mind taking my time with this tutorial, and it actually recommends that you do so (instead of rushing through). I prefer taking time for concepts to absorb, as rote learning has never had a lasting effect on my memory or indeed how I undertake any new task.
@@ -85,7 +86,7 @@ https://www.w3schools.com/spaces/
 
 ### Day 10: 5th of August 2022
 
-**Today's Progress:** Second day as a Software Development Intern at Service Victoria and the first day working from home. I'm quite enjoying using the Microsoft Surface Pro 7+ provided to me by work, however I think I will get a separate keyboard and display to make my set up a bit more ergonomic. I completed the *Learn the CSS Box Model by Building a Rothko Painting* tutorial in freeCodeCamp.
+**Today's Progress:** Second day as a Software Engineering Intern at Service Victoria and the first day working from home. I'm quite enjoying using the Microsoft Surface Pro 7+ provided to me by work, however I think I will get a separate keyboard and display to make my set up a bit more ergonomic. I completed the *Learn the CSS Box Model by Building a Rothko Painting* tutorial in freeCodeCamp.
 
 **Thoughts:** It was exciting to finally officially be able to concentrate fully on my paid work placement for the Digital Jobs Program. Code switching between a non-tech job and where my heart truly belongs as a Front End Web Developer / Software Engineer has been quite draining. I quite enjoyed applying margin, padding, filter, border-radius, and transform properties to create an approximation of abstract art in part 6 of the *(New) Responsive Web Design* in freeCodeCamp.
 
