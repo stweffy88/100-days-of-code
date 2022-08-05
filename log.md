@@ -76,11 +76,15 @@ https://www.w3schools.com/spaces/
 -->
 
 ### Day 9: 4th of August 2022
+
 **Today's Progress:** Today was my last day at my non-coding part-time job. Unsurprisingly, I did not get much coding done. However, I did chip away a little further at the CSS tutorial on Sololearn (91% complete!).
+
 **Thoughts:** It is a relief to not be dividing my attention away from my intended career path.
+
 **Link to work:** [Sololearn profile](https://www.sololearn.com/Profile/25656677/?ref=app)
 
 ### Day 10: 5th of August 2022
+
 **Today's Progress:** Second day as a Software Development Intern at Service Victoria and the first day working from home. I'm quite enjoying using the Microsoft Surface Pro 7+ provided to me by work, however I think I will get a separate keyboard and display to make my set up a bit more ergonomic. I completed the *Learn the CSS Box Model by Building a Rothko Painting* tutorial in freeCodeCamp
-**Thoughts:** It was exciting to finally officially be able to concentrate fully on my paid work placement for the Digital Jobs Program. Code switching between a non-tech job and where my heart truly belongs as a Front End Web Developer / Software Engineer has been quite draining. I quite enjoyed applying margin, padding, filter, border-radius, and tranform proterities to create an approximation of abstract art in part 6 of the *(New) Responsive Web Design* in freeCodeCamp.
-**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.org/stweffy_88)
+
+**Thoughts:** It was exciting to finally officially be able to concentrate fully on my paid work placement for the Digital Jobs Program. Code switching between a non-tech job and where my heart truly belongs as a Front End Web Developer / Software Engineer has been quite draining. I quite enjoyed applying margin, padding, filter, border-radius, and tranform proterities to create an approximation of abstract art in part 6 of the *(New) Responsive Web Design* in freeCodeCamp.**Link to work:** [freeCodeCamp profile](https://www.freecodecamp.org/stweffy_88)
