@@ -69,13 +69,6 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [React Tutorial fork - Tic Tac Toe on CodePen](https://codepen.io/stweffy_88/pen/RwMxbRz)
 
-<!-- 
-### Day :  of  2022
-**Today's Progress:** 
-**Thoughts:**
-**Link to work:**
--->
-
 ### Day 9: 4th of August 2022
 
 **Today's Progress:** Today was my last day at my non-coding part-time job. Unsurprisingly, I did not get much coding done. However, I did chip away a little further at the CSS tutorial on Sololearn (91% complete!).
@@ -91,3 +84,18 @@ https://www.w3schools.com/spaces/
 **Thoughts:** It was exciting to finally officially be able to concentrate fully on my paid work placement for the Digital Jobs Program. Code switching between a non-tech job and where my heart truly belongs as a Front End Web Developer / Software Engineer has been quite draining. I quite enjoyed applying margin, padding, filter, border-radius, and transform properties to create an approximation of abstract art in part 6 of the *(New) Responsive Web Design* in freeCodeCamp.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.org/stweffy_88)
+
+### Day 11: 6th of August 2022
+
+**Today's Progress:** I had a go at this week's #CodePenChallenge. Making a "Looooong Teeeeext" generator was good fun. I also experimented with using an iframe for the first time, so that the newsletter from which the Challenge found the prompt.
+
+**Thoughts:** CodePen has been a magnificent source of inspiration for me, especially as someone new to coding. Seeing the work of those that I admire has helped to feel like it is possible for me to be creative with how I respond to coding challenges. This is the first time I have 
+
+**Link to work:** [August 2022 #CodePenChallenge: Looooong Teeeeext](https://codepen.io/stweffy_88/pen/BarxmPz)
+
+<!-- 
+### Day :  of  2022
+**Today's Progress:** 
+**Thoughts:**
+**Link to work:**
+-->
