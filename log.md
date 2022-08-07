@@ -93,6 +93,14 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [August 2022 #CodePenChallenge: Looooong Teeeeext](https://codepen.io/stweffy_88/pen/BarxmPz)
 
+### Day 12: 7th of August 2022
+
+**Today's Progress:** Tried out the browser-based integrated development environmen (IDE) [JSFiddle](https://docs.jsfiddle.net/getting-started) as a sandbox to experiment with [Font Awesome](https://fontawesome.com/fontawesome.com/docs/web/setup/get-started) icons to create a **Social Links** page for myself.
+
+**Thoughts:** JSFiddle was very user-friendly and has a an interface that you can jump straight in and use. I particularly appreciate the options for Editor Layout. The range of free icons on offer from Font Awesome is very impressive and again very user-friendly.
+
+**Link to work:** https://jsfiddle.net/stweffy_88/yq4vt9L2/52/
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
