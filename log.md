@@ -101,6 +101,20 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** https://jsfiddle.net/stweffy_88/yq4vt9L2/52/
 
+### Day 13: 8th of August 2022
+
+**Today's Progress:** No coding today, as I was on a long-haul flight from Melbourne to Manchester, with a two-hour stopover in Dubai. Hence, access to internet to unreliable at best.
+
+**Thoughts:** I will add a couple of days at the end of the challenge to make up for the days lost in transit during this trip.
+
+### Day 14: 9th of August 2022
+
+**Today's Progress:** I practised some of the concepts covered in the CSS course on Sololearn. Specifically, CSS properties that I have not used previously including: linear-gradient, text-shadows, letter-spacing, and drop-shadow.
+
+**Thoughts:** I'm quite happy with how everything turned out and confident that I can use these techniques in future projects.
+
+**Link to work:** https://jsfiddle.net/stweffy_88/sxtvn2w8/43/
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
