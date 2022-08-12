@@ -117,7 +117,7 @@ https://www.w3schools.com/spaces/
 
 ### Day 15: 10th of August 2022 & Day 16: 11th of August
 
-**Progress:** Completed "Learn CSS Flexbox by Building a Photo Gallery" project on freeCodeCamp. It helped to demonstrate the utility of the followin CSS properties: [box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing), max-width, flex-wrap, [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit), and gap
+**Progress:** Completed "Learn CSS Flexbox by Building a Photo Gallery" project on freeCodeCamp. It helped to demonstrate the utility of the following CSS properties: [box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing), max-width, flex-wrap, [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit), and gap
  I also have not used the `::after' pseudo elements before, so it was handy to see that in action.
 
 **Thoughts:** I am happy to have consolidated the practical use of Flexbox a little more and even applied properties and a pseudo element that I have not used in my own projects yet.
