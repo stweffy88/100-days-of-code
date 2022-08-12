@@ -81,7 +81,7 @@ https://www.w3schools.com/spaces/
 
 **Today's Progress:** Second day as a Software Engineering Intern at Service Victoria and the first day working from home. I'm quite enjoying using the Microsoft Surface Pro 7+ provided to me by work, however I think I will get a separate keyboard and display to make my set up a bit more ergonomic. I completed the *Learn the CSS Box Model by Building a Rothko Painting* tutorial in freeCodeCamp.
 
-**Thoughts:** It was exciting to finally officially be able to concentrate fully on my paid work placement for the Digital Jobs Program. Code switching between a non-tech job and where my heart truly belongs as a Front End Web Developer / Software Engineer has been quite draining. I quite enjoyed applying margin, padding, filter, border-radius, and transform properties to create an approximation of abstract art in part 6 of the *(New) Responsive Web Design* in freeCodeCamp.
+**Thoughts:** It was exciting to finally officially be able to concentrate fully on my paid work placement for the Digital Jobs Program. Code switching between a non-tech job and where my heart truly belongs as a Front End Web Developer / Software Engineer has been quite draining. I quite enjoyed applying `margin`, `padding`, `filter`, `border-radius`, and `transform` properties to create an approximation of abstract art in part 6 of the *(New) Responsive Web Design* in freeCodeCamp.
 
 **Link to work:** [freeCodeCamp profile](https://www.freecodecamp.org/stweffy_88)
 
@@ -109,7 +109,7 @@ https://www.w3schools.com/spaces/
 
 ### Day 14: 9th of August 2022
 
-**Today's Progress:** I practised some of the concepts covered in the CSS course on Sololearn. Specifically, CSS properties that I have not used previously including: linear-gradient, text-shadows, letter-spacing, and drop-shadow.
+**Today's Progress:** I practised some of the concepts covered in the CSS course on Sololearn. Specifically, CSS properties that I have not used previously including: `linear-gradient`, `text-shadow`, `letter-spacing`, and `drop-shadow`.
 
 **Thoughts:** I'm quite happy with how everything turned out and confident that I can use these techniques in future projects.
 
@@ -117,7 +117,7 @@ https://www.w3schools.com/spaces/
 
 ### Day 15: 10th of August 2022 & Day 16: 11th of August
 
-**Progress:** Completed "Learn CSS Flexbox by Building a Photo Gallery" project on freeCodeCamp. It helped to demonstrate the utility of the following CSS properties: [box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing), max-width, flex-wrap, [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit), and gap
+**Progress:** Completed *Learn CSS Flexbox by Building a Photo Gallery* project on freeCodeCamp. It helped to demonstrate the utility of the following CSS properties: `box-sizing`, `max-width`, `flex-wrap`, `object-fit`, and `gap`.
  I also have not used the `::after` pseudo elements before, so it was handy to see that in action.
 
 **Thoughts:** I am happy to have consolidated the practical use of Flexbox a little more and even applied properties and a pseudo element that I have not used in my own projects yet.
