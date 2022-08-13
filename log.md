@@ -126,7 +126,7 @@ https://www.w3schools.com/spaces/
 
 ### Day 16: 12th of August 2022
 
-**Today's Progress:** Worked out what I need to fix to progress in the *Tutorial: Intro to React* - I was missing one curly bracket at the end of the arrow function within the button. Hence, I was able to keep going with the tutorial project of creating a Tic Tac Toe game using React
+**Today's Progress:** Worked out what I needed to fix to progress in the *Tutorial: Intro to React* - I was missing one curly bracket at the end of the arrow function within the button. Hence, I was able to keep going with the tutorial project of creating a Tic Tac Toe game using React.
 
 **Thoughts:** It was a relief to figure out that bug, so that I can continue to chip away at this introduction to React.
 
