@@ -124,13 +124,21 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
-### Day 16: 12th of August 2022
+### Day 17: 12th of August 2022
 
 **Today's Progress:** Worked out what I needed to fix to progress in the *Tutorial: Intro to React* - I was missing one curly bracket at the end of the arrow function within the button. Hence, I was able to keep going with the tutorial project of creating a Tic Tac Toe game using React.
 
 **Thoughts:** It was a relief to figure out that bug, so that I can continue to chip away at this introduction to React.
 
 **Link to work:** [React Tutorial fork - Tic Tac Toe on CodePen](https://codepen.io/stweffy_88/pen/RwMxbRz)
+
+### Day 18: 13th of August 2022
+
+**Today's Progress:** Recreated the Moon Phases puzzle from [Grasshopper](https://grasshopper.app/faq/) in JS Fiddle. It makes use of the [D3 library](https://d3js.org/) to create SVG animations.
+
+**Thoughts:** It was a good confidence boost to show myself that I can emulate what I have learned about JavaScript from the puzzles in Grasshopper.
+
+**Link to work:** https://jsfiddle.net/stweffy_88/79fejd60/124/
 
 <!-- 
 ### Day :  of  2022
