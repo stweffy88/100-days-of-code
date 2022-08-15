@@ -140,6 +140,14 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** https://jsfiddle.net/stweffy_88/79fejd60/124/
 
+### Day 19: 14th of August 2022
+
+**Today's Progress:** I tried the second CodePen Challenge for August: *All Unique Characters*. I was inspired by the solution created by @nicoleontech for the original prompt in the newsletter by @cassidoo: [nicoleontech/cassidoo-interviewQuestions/unique.js](https://github.com/nicoleontech/cassidoo-interviewQuestions/blob/37d05aa80de748b1705ac1c4fc6b791e8abe250c/unique.js).
+
+**Thoughts:**  This was a useful example of the application of: `for` loops, comparison operators, `indexOf()`, and 'lastIndexOf'.
+
+**Link to work:** [August 2022 #CodePenChallenge: All Unique Characters](https://codepen.io/stweffy_88/pen/VwXEqKB)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
