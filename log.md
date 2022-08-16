@@ -148,6 +148,14 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [August 2022 #CodePenChallenge: All Unique Characters](https://codepen.io/stweffy_88/pen/VwXEqKB)
 
+### Day 20: 15th of August 2022
+
+**Today's Progress:** Completed the *Lifting State Up* step of the [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html).
+
+**Thoughts:** React is still confusing to me, but the `.slice()`, `onClick` and `handleClick` code from this step were familiar from my JavaScript knowledge.
+
+**Link to work:** [React Tutorial fork - Tic Tac Toe on CodePen](https://codepen.io/stweffy_88/pen/RwMxbRz)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
