@@ -160,7 +160,7 @@ https://www.w3schools.com/spaces/
 
 **Today's Progress:** Completed 63% of the *Learn Typography by Building a Nutrition Label* project (Step 1 to Step 42) on freeCodeCamp.
 
-**Thoughts:** This had been a good refresher for CSS layout concepts and the first time I have used the `clear` and `overflow` properties.
+**Thoughts:** This is good for refreshing CSS layout concepts and it was the first time I have used the `clear` and `overflow` properties.
 
 **Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
