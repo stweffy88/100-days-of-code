@@ -164,6 +164,14 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
+### Day 22: 17th of August 2022
+
+**Today's Progress:** Finished the *Learn Typography by Building a Nutrition Label* project (Step 43 to Step 66) on freeCodeCamp.
+
+**Thoughts:** It was useful to see how multiple styles can be added to HTML elements using the `class` attribute. This was my first use of the `:not` pseudo-selector to exclude elements that do not match the given CSS rule. Also, I have not used the `text-indent` property before.
+
+**Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
