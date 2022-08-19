@@ -172,6 +172,14 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
+### Day 23: 18th of  2022
+
+**Today's Progress:** Emulated another Grasshopper app puzzle with a few tweaks. One of these was positioning the red square 50 pixels further away from the top of the screen, to make the four coloured squares look more like a game controller. I also did not include the code from the puzzle explainer pertaining to a `color` variable and the Grasshopper custom `pickRandom()` function, so I could just focus on the following d3 concepts: `.attr('cx',)`, `.attr('cy',)`, `.on('click',)`, and `.transition()`.
+
+**Thoughts:** It was fun to recreate this puzzle in JS Fiddle. The animation possibilities with the [d3 JavaScript library](https://d3js.org/) are quite interesting to me and I'm glad to have had the chance to explore them through the Grasshopper app 
+
+**Link to work:** [Rebuild of "Walk Around" puzzle from Grasshopper app](https://jsfiddle.net/stweffy_88/hnzj4byv/38/)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
