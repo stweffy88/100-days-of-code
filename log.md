@@ -180,6 +180,26 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [Rebuild of "Walk Around" puzzle from Grasshopper app](https://jsfiddle.net/stweffy_88/hnzj4byv/38/)
 
+### Day 24: 19th of August 2022
+
+**Today's Progress:** No coding today, as I was attending a wedding.
+
+**Thoughts:** I will add another day at the end of the challenge to make up for the missed day.
+
+### Day 25: 20th of August 2022
+
+**Today's Progress:** No coding today, as I had no consistent internet to use while in transit.
+
+**Thoughts:** I will add another day at the end of the challenge to make up for the missed day.
+
+### Day 26: 21st of August 2022
+
+**Today's Progress:** Started the *Learn Accessibility by Building a Quiz* project on freeCodeCamp.
+
+**Thoughts:** I will take my time with this project and not rush the steps, as Accessibilty is a subject that means a lot to me.
+
+**Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
