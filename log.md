@@ -200,6 +200,12 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
+### Day 27: 22nd of August 2022
+
+**Today's Progress:** No coding, as I was flying from Manchester back to Melbourne, via Dubai. So there was no consistent internet.
+
+**Thoughts:** I will have to add five days to the end of this challenge to make up for those that I have missed.
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
