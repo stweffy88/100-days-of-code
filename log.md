@@ -206,6 +206,14 @@ https://www.w3schools.com/spaces/
 
 **Thoughts:** I will have to add five days to the end of this challenge to make up for those that I have missed.
 
+### Day 28: 23rd of August 2022
+
+**Today's Progress:** Researched Cron jobs for a project assigned to myself and the other Software Engineering interns. I will need to learn more about Command Line Interface before I use it, but the theory makes sense for this scheduling automation tool. Continued the *Learn Accessibility by Building a Quiz* project on freeCodeCamp.
+
+**Thoughts:** The flow of data between the web scraper, Cron job and JSON schema will be easier to conceptualize with the three interns working on researching each component individually. In the freeCodeCamp project, I have been introduced to the `aspect-ratio` property.
+
+**Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
