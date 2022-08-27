@@ -228,6 +228,14 @@ https://www.w3schools.com/spaces/
 
 **Thoughts:** Despite no coding, I am loving my new job. This internship is combining my educational design knowledge and love of facilitating the growth of knowledge in myself and others.
 
+### Day 31: 26th of August & Day 32: 27th of August 2022
+
+**Today's Progress:** Completed Step 10 to Step 16 of *Learn Accessibility by Building a Quiz* project on freeCodeCamp. I had not come across the `role` or `aria-labelledby` attribute previously, so I look forward to doing further research into this part of the Web Accessibility Initiative (WAI). https://www.w3.org/TR/role-attribute/
+
+**Thoughts:** Steadily making my way through the concepts on this project. There may be the temptation to rush tutorials like this, but then the concepts they teach are less likely to be retained.
+
+**Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
