@@ -214,6 +214,20 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
+### Day 29: 24th of August 2022
+
+**Today's Progress:** Progressed to almost halfway through the Sololearn *Responsive Web Design* course.
+
+**Thoughts:** Picking up useful tips from this course for my blog that I am designing. I intend to make a mobile first responsive website.
+
+**Link to work:** https://code.sololearn.com/WnPCf8D4Jyph/?ref=app
+
+### Day 30: 25th of August 2022
+
+**Today's Progress:** Ironically, did not get any coding done despite a busy day at my Software Engineering internship. It was filled with largely research on System Architecture Diagrams and Cron documentation.
+
+**Thoughts:** Despite no coding, I am loving my new job. This internship is combining my educational design knowledge and love of facilitating the growth of knowledge in myself and others.
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
