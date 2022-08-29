@@ -236,6 +236,14 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
+### Day 33: 28th of August 2022 & Day 34: 29th of August
+
+**Today's Progress:** Reinforced what I have covered so far in the *Responsive Web Design* course on Sololearn by recreating it in JSfiddle.
+
+**Thoughts:** I needed to adjust the HTML and CSS to make it work in a text editor outside of the Sololearn environment, but I was successful.
+
+**Link to work:** [Landing Page](https://jsfiddle.net/stweffy_88/qrkL40tz/77/)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
