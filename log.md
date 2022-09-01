@@ -244,6 +244,14 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [Landing Page](https://jsfiddle.net/stweffy_88/qrkL40tz/77/)
 
+### Day 35: 30th of August 2022 & Day 36: 31st of August 2022
+
+**Today's Progress:** Completed Step 17 to Step 25 of *Learn Accessibility by Building a Quiz* project on freeCodeCamp. I have not used text that only screen readers can see before, so I will remember to use the CSS rules for the `sr-only` class that were made for this project. These included `overflow: hidden;`, `clip: rect(0, 0, 0, 0);`, and `white-space: nowrap;`.
+
+**Thoughts:** This part of the project was an important reminder of how the relationship between the `label` tag and the ID of the `input` tag  provides a visual reference to the input for those who use assistive technology.
+
+**Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
