@@ -252,6 +252,20 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
+### Day 37: 1st of September 2022 & Day 38: 2nd of September 2022
+
+**Today's Progress:** Gained knowledge about Secure Shell Protocol (SSH) to enable access to the GitHub Enterprise Server for my internship.
+
+**Thoughts:** This is unfamiliar territory for me, but the [GitHubs Docs](https://docs.github.com/en/enterprise-server@3.2/authentication/connecting-to-github-with-ssh/about-ssh) are very thorough and help to walk through each step of the process.
+
+### Day 39: 3rd of September 2022
+
+**Today's Progress:** Forked my previous JS Fiddle to continue practising what I am learning in the *Responsive Web Design* course on Sololearn. I have progressed to the next section which focuses on *Making it Responsive*.
+
+**Thoughts:** It was good to reinforce what I have already covered in the Front-End Web Development course at General Assembly regarding media queries, breakpoints, and the CSS properties `min-width` and `max-width`.
+
+**Link to work:** [Landing Page - Making it Responsive](https://jsfiddle.net/stweffy_88/fu1yw0bt/21/)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
