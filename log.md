@@ -256,7 +256,7 @@ https://www.w3schools.com/spaces/
 
 **Today's Progress:** Gained knowledge about Secure Shell Protocol (SSH) to enable access to the GitHub Enterprise Server for my internship.
 
-**Thoughts:** This is unfamiliar territory for me, but the [GitHubs Docs](https://docs.github.com/en/enterprise-server@3.2/authentication/connecting-to-github-with-ssh/about-ssh) are very thorough and help to walk through each step of the process.
+**Thoughts:** This is unfamiliar territory for me, but the [GitHub Docs](https://docs.github.com/en/enterprise-server@3.2/authentication/connecting-to-github-with-ssh/about-ssh) are very thorough and help to walk through each step of the process.
 
 ### Day 39: 3rd of September 2022
 
