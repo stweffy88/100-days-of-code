@@ -266,6 +266,20 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [Landing Page - Making it Responsive](https://jsfiddle.net/stweffy_88/fu1yw0bt/21/)
 
+### Day 40: 4th of September 2022
+
+**Today's Progress:** Continued reinforcing my learning from the *Responsive Web Design* course on Sololearn by coding along in my JS Fiddle.
+
+**Thoughts:** It is always reaffirming to see a Flexbox layout just work. In particular, the change from horizontal alignment of the three features on a desktop screen to vertical alignment on a mobile screen.
+
+**Link to work:** [Landing Page - Making it Responsive](https://jsfiddle.net/stweffy_88/fu1yw0bt/21/)
+
+### Day 41: 5th of September 2022 & Day 42: 6th of September
+
+**Today's Progress:** As mentioned previously, I have been working on adding an SSH key to GitHub, but I was only successful after a few tries in between tasks at work. The code I was entering into from the guide into Microsoft PowerShell was not working as it should, so I ended up consulting Stack Overflow to find the answer.
+
+**Thoughts:** I was pretty frustrated after what appeared to be a pretty straightforward task on both GitHub Docs and the YouTube tutorials that I found. However, I have not used Command Line before so the concepts are unfamiliar to me. In the end, I was able to figure out the relative path to the SSH key `~/.ssh/id_rsa.pub`. Since neither the terminal in Visual Code nor Microsoft PowerShell would accept the code snippet from GitHub Docs (`"clip < ~/.ssh/id_rsa.pub"`), I instead used the `Get-Content` command instead of `clip`.
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
