@@ -274,11 +274,19 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [Landing Page - Making it Responsive](https://jsfiddle.net/stweffy_88/fu1yw0bt/21/)
 
-### Day 41: 5th of September 2022 & Day 42: 6th of September
+### Day 41: 5th of September 2022 & Day 42: 6th of September 2022
 
 **Today's Progress:** As mentioned previously, I have been working on adding an SSH key to GitHub, but I was only successful after a few tries in between tasks at work. The code I was entering into from the guide into Microsoft PowerShell was not working as it should, so I ended up consulting Stack Overflow to find the answer.
 
-**Thoughts:** I was pretty frustrated after what appeared to be a pretty straightforward task on both GitHub Docs and the YouTube tutorials that I found. However, I have not used Command Line before so the concepts are unfamiliar to me. In the end, I was able to figure out the relative path to the SSH key `~/.ssh/id_rsa.pub`. Since neither the terminal in Visual Code nor Microsoft PowerShell would accept the code snippet from GitHub Docs (`"clip < ~/.ssh/id_rsa.pub"`), I instead used the `Get-Content` command instead of `clip`.
+**Thoughts:** I was pretty frustrated after what appeared to be a pretty straightforward task on both GitHub Docs and the YouTube tutorials that I found. However, I have not used Command Line before so the concepts are unfamiliar to me. In the end, I was able to figure out the relative path to the SSH key `~/.ssh/id_rsa.pub`. Since neither the terminal in Visual Code nor Microsoft PowerShell would accept the code snippet from GitHub Docs (`clip < ~/.ssh/id_rsa.pub`), I instead used the `Get-Content` command instead of `clip` and it worked.
+
+### Day 43: 7th of September 2022 & Day 44: 8th of September 2022
+
+**Today's Progress:** Returned to the *Learn Accessibility by Building a Quiz* project on freeCodeCamp.
+
+**Thoughts:** Using `fieldset` and `legend` are important skills for grouping information in a HTML form together. The nested elements within the `fieldset` are related to one another and it draws a box around them. The `legend` tag provides a caption for the fieldset that is visible on the page. The `name` attribute of the `fieldset` tag gives the name of the grouping of related elements within.
+
+**Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
 <!-- 
 ### Day :  of  2022
