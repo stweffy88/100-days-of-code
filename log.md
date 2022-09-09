@@ -288,6 +288,16 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [freeCodeCamp profile showing progress](https://www.freecodecamp.org/stweffy_88)
 
+### Day 45: 9th of September 2022
+
+**Today's Progress:** Coded along to *15.1 LESSON: Responsive Quote & Footer* from the *Responsive Web Design* course on Sololearn.
+
+**Thoughts:** With a mobile-first responsive design in mind, the following changes were made: 
+- The padding is increased and the font size is decreased when viewed on a mobile screen.
+- When viewed on a mobile screen, the list items in the footer become block level elements. This means that they extend across the whole width of their container, which makes them align beneath each other.
+
+**Link to work:** [Landing Page - Making it Responsive](https://jsfiddle.net/stweffy_88/fu1yw0bt/21/)
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
