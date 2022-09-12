@@ -302,7 +302,7 @@ https://www.w3schools.com/spaces/
 
 **Today's Progress:** I need to be able to switch between versions of Node, so I was asked to try to install Node Version Manager (NVM) and then Node version 16.7.0 (Long Term Support (LTS) at this point in time). I am not able to use the method described for Mac or Linux in the repository (https://github.com/nvm-sh/nvm) as I have been supplied with a Surface Pro 7+ for this internship. When I looked into Corey Butler's NVM for Windows (https://github.com/coreybutler/nvm-windows), I was unable to follow the method described by many articles and YouTube videos as I do not have the administrator privileges required to use the installer on the computer that I have been supplied. 
 
-When I researched the other options a little further, I found a [Microsoft article](whiuggested Jason Ginchereau's [Node Version Switcher](https://github.com/jasongin/nvs) (NVS) because it  has the ability to [integrate with Visual Studio Code](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs- windows#alternative-version-managers), which is the preferred text editor for this workplace. 
+When I researched the other options a little further, I found a [Microsoft article](whiuggested Jason Ginchereau's [Node Version Switcher](https://github.com/jasongin/nvs) (NVS) because it  has the ability to [integrate with Visual Studio Code](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-windows#alternative-version-managers), which is the preferred text editor for this workplace. 
 
 Thankfully, NVS worked and I was able to install the LTS version of Node.js (version 16.7.0).
 
