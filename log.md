@@ -298,6 +298,18 @@ https://www.w3schools.com/spaces/
 
 **Link to work:** [Landing Page - Making it Responsive](https://jsfiddle.net/stweffy_88/fu1yw0bt/21/)
 
+### Day 46: 10th of September 2022 & Day 47: 11th of September
+
+**Today's Progress:** I need to be able to switch between versions of Node, so I was asked to try to install Node Version Manager (NVM) and then Node version 16.7.0 (Long Term Support (LTS) at this point in time). I am not able to use the method described for Mac or Linux in the repository (https://github.com/nvm-sh/nvm) as I have been supplied with a Surface Pro 7+ for this internship. When I looked into Corey Butler's NVM for Windows (https://github.com/coreybutler/nvm-windows), I was unable to follow the method described by many articles and YouTube videos as I do not have the administrator privileges required to use the installer on the computer that I have been supplied. 
+
+When I researched the other options a little further, I found a [Microsoft article](whiuggested Jason Ginchereau's [Node Version Switcher](https://github.com/jasongin/nvs) (NVS) because it  has the ability to [integrate with Visual Studio Code](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs- windows#alternative-version-managers), which is the preferred text editor for this workplace. 
+
+Thankfully, NVS worked and I was able to install the LTS version of Node.js (version 16.7.0).
+
+**Thoughts:** I had not used Command Line Interface prior to this internship, so it has been a bit of a steep learning curve. However, I can see the advantages of being able to use text commands to interface directly with the operating system of a computer.
+
+After trying each of the [Windows installation methods suggested by NVM](https://github.com/nvm-sh/nvm#important-notes) for a couple of days, it was a relief to find that NVS worked straight away. The [Visual Studio Code Support](https://github.com/jasongin/nvs/blob/master/doc/VSCODE.md) was definitely appealing too.
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
