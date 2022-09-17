@@ -310,20 +310,33 @@ Thankfully, NVS worked and I was able to install the LTS version of Node.js (ver
 
 After trying each of the [Windows installation methods suggested by NVM](https://github.com/nvm-sh/nvm#important-notes) for a couple of days, it was a relief to find that NVS worked straight away. The [Visual Studio Code Support](https://github.com/jasongin/nvs/blob/master/doc/VSCODE.md) was definitely appealing too.
 
-### Day 48: 12th of September 2022, Day 49: 13th of September 2022
+### Day 48: 12th of September 2022, Day 49: 13th of September 2022 & Day 50: 14th of September
 
 **Today's Progress:** No coding, as I was busy with studying after work. I have an assignment due on the 19th of September that is worth 40% of my final mark, so that is my priority this week.
 
-**Thoughts:**
+**Thoughts:** Three more days to add to the end of this challenge, but this is my second attempt at the last unit I need to finish the Graduate Certificate of Educational Design.
 
-### Day :  of  2022
-**Today's Progress:** 
-**Thoughts:**
-**Link to work:**
+### Day 51: 15th of September 2022
+
+**Today's Progress:** I attended two webinars today which introduced Python from different perspectives. First, General Assembly's *Programming Essentials with Python* for Workshop Wednesdays, which was a good overview of the origins and potential for this programming language in many different digital professions. The second was a teacher PD presented by Zenva to demonstrate their use of Python Turtle to teach students to code, featuring lesson plans that align with the Australian curricullum. 
+
+**Thoughts:** It was random happenstance that these very different approaches to introducing Python occurred on the same day. I had not considered learning Python before it appeared in some of the code I am looking at for my internship. The second webinar was a jolt of nostalgia for me, because I actually did an extracurricular activity when I was in primary school where we used Microworlds. In fact, I still have the floppy disk with the program on it.
+
+**Link to work:** https://replit.com/@stweffy88
+
+### Day 52: 16th of September 2022
+
+**Today's Progress:** I have completed lessons 16.1 and 17.1 in *Responsive Web Design* course on Sololearn, which finished off the *Make it Responsive* section of the course.
+
+**Thoughts:** Using rem instead of pixels for the unit of measurement for the font sizes made no difference to what I have been coding along in JS Fiddle, as they were the same ratios (html = 16px, h1 = 48px = 3rem, h2 = 24px = 1.5rem, .btn = 20px = 1.25rem).
+
+**Link to work:**  [Landing Page - Making it Responsive](https://jsfiddle.net/stweffy_88/fu1yw0bt/21/)
 
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
 **Thoughts:**
 **Link to work:**
+
+Non-coding days to add to the end of the challenge = 9
 -->
