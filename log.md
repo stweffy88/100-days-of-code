@@ -310,6 +310,17 @@ Thankfully, NVS worked and I was able to install the LTS version of Node.js (ver
 
 After trying each of the [Windows installation methods suggested by NVM](https://github.com/nvm-sh/nvm#important-notes) for a couple of days, it was a relief to find that NVS worked straight away. The [Visual Studio Code Support](https://github.com/jasongin/nvs/blob/master/doc/VSCODE.md) was definitely appealing too.
 
+### Day 48: 12th of September 2022, Day 49: 13th of September 2022
+
+**Today's Progress:** No coding, as I was busy with studying after work. I have an assignment due on the 19th of September that is worth 40% of my final mark, so that is my priority this week.
+
+**Thoughts:**
+
+### Day :  of  2022
+**Today's Progress:** 
+**Thoughts:**
+**Link to work:**
+
 <!-- 
 ### Day :  of  2022
 **Today's Progress:** 
